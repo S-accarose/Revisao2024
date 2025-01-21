@@ -3,7 +3,6 @@ using System.IO;
 
 using (StreamWriter escrever = new StreamWriter("MinhaNova-Senha.txt"))
 {
-
     char[] abc = new char[52] 
     {
         'a', 'A', 'b', 'B', 'c', 'C', 'd', 'D', 'e', 'E', 'f', 'F', 
@@ -122,5 +121,6 @@ using (StreamWriter escrever = new StreamWriter("MinhaNova-Senha.txt"))
 
     Console.ForegroundColor = ConsoleColor.Green;
     Console.WriteLine($"Sua nova senha é : {senhaFinal}");
+    escrever.WriteLine($"Sua nova senha é : {senhaFinal}");
     Console.ResetColor();
 }
