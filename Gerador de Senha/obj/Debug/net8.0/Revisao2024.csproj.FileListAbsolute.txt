@@ -1,0 +1,15 @@
+C:\git\Revisao2024\bin\Debug\net8.0\Revisao2024.exe
+C:\git\Revisao2024\bin\Debug\net8.0\Revisao2024.deps.json
+C:\git\Revisao2024\bin\Debug\net8.0\Revisao2024.runtimeconfig.json
+C:\git\Revisao2024\bin\Debug\net8.0\Revisao2024.dll
+C:\git\Revisao2024\bin\Debug\net8.0\Revisao2024.pdb
+C:\git\Revisao2024\obj\Debug\net8.0\Revisao2024.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\Revisao2024\obj\Debug\net8.0\Revisao2024.AssemblyInfoInputs.cache
+C:\git\Revisao2024\obj\Debug\net8.0\Revisao2024.AssemblyInfo.cs
+C:\git\Revisao2024\obj\Debug\net8.0\Revisao2024.csproj.CoreCompileInputs.cache
+C:\git\Revisao2024\obj\Debug\net8.0\Revisao2024.sourcelink.json
+C:\git\Revisao2024\obj\Debug\net8.0\Revisao2024.dll
+C:\git\Revisao2024\obj\Debug\net8.0\refint\Revisao2024.dll
+C:\git\Revisao2024\obj\Debug\net8.0\Revisao2024.pdb
+C:\git\Revisao2024\obj\Debug\net8.0\Revisao2024.genruntimeconfig.cache
+C:\git\Revisao2024\obj\Debug\net8.0\ref\Revisao2024.dll
