@@ -1,6 +1,90 @@
-.navbar
+body
 {
-    height: 700px;
+    background-color: #837a68;
+    min-width: 100vw;
+    min-height: 100vh;
+}
+
+.logo
+{
     width: 100%;
-    background-color: rgb(194, 157, 90);
+    height: 150px;
+    border-radius: 50%;
+}
+
+.botaoredondo
+{
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    width: 50px;
+    height: 50px;
+    border: 3px solid #f6e2bf;
+    border-radius: 50%;
+    overflow: hidden;
+    background-color: #ffffff00;
+    cursor: pointer;
+    transition: box-shadow 0.3s, transform 0.3s;
+}
+
+.botaoredondo:hover
+{
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    transform: scale(1.1);
+}
+
+.botaoredondo:active
+{
+    transform: scale(0.95);
+}
+
+.botaoretangulo
+{
+    border-radius: 5%;
+    font-style: bold;
+    color: #f6e2bf;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    width: 110px;
+    height: 50px;
+    border: 3px solid #f6e2bf;
+    overflow: hidden;
+    background-color: #ffffff00;
+    cursor: pointer;
+    transition: box-shadow 0.3s, transform 0.3s;
+}
+
+.botaoretangulo:hover
+{
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    transform: scale(1.1);
+}
+
+.botaoretangulo:active
+{
+    transform: scale(0.95);
+}
+
+.imgfundo
+{
+    background-image: url(./Imagens/fundosite1.png);
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height:80vh;
+}
+
+.linha
+{
+    background-color: #f6e2bf;
+    height: 20px;
+    width: 100vw;
+}
+
+.cardapio
+{
+    background-color: #3f290c;
+    height: 1250px;
+    width: 40vw;
 }
