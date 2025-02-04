@@ -1,0 +1,36 @@
+.imgfundo
+{
+    background-image: url(./Imagens/fundosite1.png);
+    background-size:cover;
+    background-position: center;
+    width: 100%;
+    height: 140vh;
+}
+
+.clicavel
+{
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    background-color: #ffffff00;
+    cursor: pointer;
+}
+
+.clicavel:hover
+{
+    transform: scale(1.1);
+}
+
+.clicavel:active
+{
+    transform: scale(0.95);
+}
+
+.cardapio
+{
+    background-color: #684509a4;
+    height: 1000px;
+    width: 450px;
+    margin-top:6vh;
+}
